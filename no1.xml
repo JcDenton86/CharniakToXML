@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXT>
+<S1>
+<S>
+<PP>
+<w pos="VBN">Compared</w>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">work</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<ADJP>
+<w pos="RBR">more</w>
+<w pos="JJ">competent</w>
+</ADJP>
+<w pos="NNS">practitioners</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">art</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">globe-hopping</w>
+<w pos="JJ">action/adventure/mystery</w>
+<w pos="NN">novel</w>
+</NP>
+</PP>
+</NP>
+</PP>
+</NP>
+</PP>
+</NP>
+</PP>
+</PP>
+<PRN>
+<symbol>-</symbol>
+<S>
+<NP>
+<w pos="NNP">Michael</w>
+<w pos="NNP">Crichton</w>
+</NP>
+<VP>
+<w pos="VBZ">comes</w>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<w pos="NN">mind</w>
+</NP>
+</PP>
+</VP>
+</S>
+<symbol>-</symbol>
+</PRN>
+<symbol>``</symbol>
+<NP>
+<w pos="DT">The</w>
+<w pos="NNP">Da</w>
+<w pos="NNP">Vinci</w>
+<w pos="NNP">Code</w>
+</NP>
+<symbol>''</symbol>
+<VP>
+<w pos="AUX">is</w>
+<ADJP>
+<w pos="JJ">pedestrian</w>
+<w pos="CC">and</w>
+<w pos="JJ">overwrought</w>
+</ADJP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<S>
+<VP>
+<w pos="TO">To</w>
+<VP>
+<w pos="VB">summarize</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">sprawling</w>
+<symbol>,</symbol>
+<w pos="JJ">byzantine</w>
+<w pos="NN">plot</w>
+</NP>
+<symbol>:</symbol>
+<NP>
+<w pos="NN">warning</w>
+</NP>
+<symbol>-</symbol>
+<NP>
+<NP>
+<w pos="JJ">possible</w>
+<w pos="NNS">spoilers</w>
+</NP>
+<ADVP>
+<w pos="RB">ahead</w>
+</ADVP>
+</NP>
+<symbol>-</symbol>
+<NP>
+<w pos="DT">an</w>
+<w pos="JJ">elderly</w>
+<w pos="NNP">Louvre</w>
+<w pos="NN">curator</w>
+</NP>
+</NP>
+</VP>
+</VP>
+</S>
+<VP>
+<w pos="AUX">is</w>
+<VP>
+<w pos="VBN">murdered</w>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">museum</w>
+</NP>
+</PP>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<SBAR>
+<w pos="IN">Although</w>
+<S>
+<VP>
+<w pos="VBN">shot</w>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">chest</w>
+</NP>
+</PP>
+</VP>
+</S>
+</SBAR>
+<symbol>,</symbol>
+<NP>
+<w pos="PRP">he</w>
+</NP>
+<VP>
+<w pos="VBZ">manages</w>
+<S>
+<VP>
+<w pos="TO">to</w>
+<VP>
+<VP>
+<w pos="VB">disrobe</w>
+</VP>
+<w pos="CC">and</w>
+<VP>
+<w pos="VBP">surround</w>
+<NP>
+<w pos="PRP">himself</w>
+</NP>
+<PP>
+<w pos="IN">with</w>
+<NP>
+<w pos="JJ">cryptographic</w>
+<w pos="NNS">clues</w>
+</NP>
+</PP>
+<PRN>
+<symbol>-</symbol>
+<S>
+<S>
+<VP>
+<w pos="VBN">written</w>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="NN">blood</w>
+<w pos="CC">AND</w>
+<w pos="JJ">invisible</w>
+<w pos="NN">ink</w>
+</NP>
+</PP>
+</VP>
+</S>
+<symbol>-LRB-</symbol>
+<symbol>!</symbol>
+<symbol>-RRB-</symbol>
+</S>
+<symbol>-</symbol>
+</PRN>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">reason</w>
+</NP>
+<PP>
+<w pos="IN">for</w>
+<NP>
+<w pos="PRP">his</w>
+<w pos="NN">death</w>
+</NP>
+</PP>
+</NP>
+</PP>
+</VP>
+</VP>
+</VP>
+</S>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<S>
+<NP>
+<NP>
+<w pos="PRP">His</w>
+<w pos="VBN">estranged</w>
+<w pos="NN">granddaughter</w>
+</NP>
+<symbol>,</symbol>
+<SBAR>
+<WHNP>
+<w pos="WP">who</w>
+</WHNP>
+<symbol>,</symbol>
+<S>
+<ADVP>
+<w pos="RB">coincidentally</w>
+</ADVP>
+<VP>
+<w pos="AUX">is</w>
+<NP>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="NN">police</w>
+<w pos="NN">inspector</w>
+</NP>
+<PRN>
+<symbol>-LRB-</symbol>
+<NP>
+<w pos="CD">!!</w>
+</NP>
+<symbol>-RRB-</symbol>
+</PRN>
+</NP>
+<w pos="CC">AND</w>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="NN">cryptologist</w>
+</NP>
+<PRN>
+<symbol>-LRB-</symbol>
+<NP>
+<w pos="CD">!!!</w>
+</NP>
+<symbol>-RRB-</symbol>
+</PRN>
+</NP>
+</NP>
+</VP>
+</S>
+</SBAR>
+<symbol>,</symbol>
+</NP>
+<VP>
+<w pos="VBZ">enlists</w>
+<PP>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">aid</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="VBG">visiting</w>
+<w pos="NNP">Harvard</w>
+<w pos="NN">professor</w>
+<w pos="CC">and</w>
+<w pos="NN">symbologist</w>
+</NP>
+<PRN>
+<symbol>-LRB-</symbol>
+<NP>
+<w pos="CD">!!!!</w>
+</NP>
+<symbol>-RRB-</symbol>
+</PRN>
+</NP>
+</PP>
+</NP>
+<w pos="IN">in</w>
+<S>
+<VP>
+<w pos="VBG">unraveling</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">multiple</w>
+<w pos="NNS">mysteries</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+</PP>
+</VP>
+</S>
+</PP>
+</VP>
+</S>
+<symbol>:</symbol>
+<S>
+<NP>
+<w pos="CD">1</w>
+</NP>
+</S>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<NP>
+<w pos="PRP">Her</w>
+<w pos="NN">grandfather</w>
+</NP>
+<VP>
+<w pos="AUX">'s</w>
+<NP>
+<w pos="NN">death</w>
+</NP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<FRAG>
+<NP>
+<w pos="CD">2</w>
+</NP>
+<symbol>.</symbol>
+</FRAG>
+</S1>
+<S1>
+<NP>
+<NP>
+<w pos="PRP">His</w>
+<w pos="NN">role</w>
+</NP>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="DT">an</w>
+<w pos="JJ">ancient</w>
+<symbol>,</symbol>
+<w pos="JJ">secret</w>
+<w pos="NN">society</w>
+</NP>
+</PP>
+<symbol>.</symbol>
+</NP>
+</S1>
+<S1>
+<FRAG>
+<NP>
+<w pos="CD">3</w>
+</NP>
+<symbol>.</symbol>
+</FRAG>
+</S1>
+<S1>
+<S>
+<NP>
+<w pos="DT">The</w>
+<w pos="NN">TRUTH</w>
+</NP>
+<VP>
+<PRN>
+<symbol>-LRB-</symbol>
+<w pos="NN">!!!!!</w>
+<symbol>-RRB-</symbol>
+</PRN>
+<PP>
+<w pos="IN">about</w>
+<NP>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNS">foundations</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNP">Christianity</w>
+</NP>
+</PP>
+</NP>
+<w pos="CC">and</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">perfidy</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNP">Rome</w>
+</NP>
+</PP>
+<PRN>
+<symbol>-LRB-</symbol>
+<NP>
+<w pos="CD">!!!!!!</w>
+</NP>
+<symbol>-RRB-</symbol>
+</PRN>
+</NP>
+</NP>
+</PP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<SBAR>
+<w pos="IN">Although</w>
+<S>
+<NP>
+<w pos="NN">prolix</w>
+<symbol>,</symbol>
+<w pos="NN">author</w>
+<w pos="CC">and</w>
+<w pos="JJ">former</w>
+<w pos="NN">schoolmaster</w>
+<w pos="NNP">Dan</w>
+<w pos="NNP">Brown</w>
+</NP>
+<VP>
+<w pos="VBZ">fails</w>
+<S>
+<VP>
+<w pos="TO">to</w>
+<VP>
+<w pos="VB">create</w>
+<NP>
+<NP>
+<w pos="JJ">adequate</w>
+<w pos="NNS">descriptions</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNS">people</w>
+</NP>
+</PP>
+</NP>
+</VP>
+</VP>
+</S>
+</VP>
+</S>
+</SBAR>
+<symbol>-LRB-</symbol>
+<symbol>``</symbol>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">forty-something</w>
+<w pos="JJ">academic</w>
+</NP>
+<symbol>''</symbol>
+<symbol>-RRB-</symbol>
+<symbol>,</symbol>
+<w pos="CC">or</w>
+<S>
+<NP>
+<NP>
+<NP>
+<w pos="NNS">places</w>
+</NP>
+<PRN>
+<symbol>-LRB-</symbol>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="NN">chapel</w>
+</NP>
+<symbol>``</symbol>
+<PP>
+<w pos="VBN">engraved</w>
+<PP>
+<w pos="IN">with</w>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">mind-boggling</w>
+<w pos="NN">array</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNS">symbols</w>
+</NP>
+</PP>
+</NP>
+</PP>
+</PP>
+<symbol>...</symbol>
+</NP>
+<symbol>-RRB-</symbol>
+</PRN>
+</NP>
+<symbol>,</symbol>
+<w pos="CC">or</w>
+<NP>
+<NP>
+<w pos="NNS">objects</w>
+</NP>
+<PRN>
+<symbol>-LRB-</symbol>
+<NP>
+<symbol>``</symbol>
+<NP>
+<w pos="JJ">gossamer</w>
+<w pos="NNS">gowns</w>
+</NP>
+<symbol>''</symbol>
+<w pos="CC">and</w>
+<symbol>``</symbol>
+<NP>
+<w pos="JJ">golden</w>
+<w pos="NNS">orbs</w>
+</NP>
+<symbol>''</symbol>
+</NP>
+<symbol>-RRB-</symbol>
+</PRN>
+</NP>
+</NP>
+</S>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<PP>
+<w pos="IN">After</w>
+<NP>
+<w pos="CD">450</w>
+</NP>
+</PP>
+<NP>
+<w pos="DT">some</w>
+<w pos="NNS">pages</w>
+</NP>
+<symbol>,</symbol>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">reader</w>
+</NP>
+<ADVP>
+<w pos="RB">still</w>
+</ADVP>
+<VP>
+<w pos="AUX">has</w>
+<VP>
+<w pos="VBN">gotten</w>
+<NP>
+<NP>
+<w pos="JJ">few</w>
+<w pos="NNS">clues</w>
+</NP>
+<PP>
+<w pos="IN">about</w>
+<NP>
+<NP>
+<w pos="NNS">matters</w>
+</NP>
+<ADJP>
+<w pos="RB">so</w>
+<w pos="JJ">basic</w>
+<PP>
+<w pos="IN">as</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">physical</w>
+<w pos="NN">appearance</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">principal</w>
+<w pos="NNS">characters</w>
+</NP>
+<symbol>-</symbol>
+<ADJP>
+<w pos="JJ">other</w>
+<PP>
+<w pos="IN">than</w>
+<NP>
+<w pos="NN">hair</w>
+<w pos="CC">and</w>
+<w pos="NN">eye</w>
+<w pos="NN">color</w>
+</NP>
+</PP>
+</ADJP>
+</NP>
+</PP>
+</NP>
+</PP>
+</ADJP>
+</NP>
+</PP>
+</NP>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<NP>
+<NP>
+<w pos="NNS">Descriptions</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<w pos="NNS">places</w>
+</NP>
+<symbol>-</symbol>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNP">Louvre</w>
+</NP>
+<symbol>,</symbol>
+<NP>
+<w pos="NNP">Westminster</w>
+<w pos="NNP">Abbey</w>
+</NP>
+</NP>
+<symbol>-</symbol>
+</NP>
+</PP>
+</NP>
+<VP>
+<VP>
+<w pos="AUX">are</w>
+<ADJP>
+<w pos="JJ">lifeless</w>
+</ADJP>
+</VP>
+<symbol>,</symbol>
+<w pos="CC">and</w>
+<VP>
+<w pos="VBP">read</w>
+<SBAR>
+<w pos="IN">as</w>
+<w pos="IN">if</w>
+<S>
+<VP>
+<w pos="VBN">plagiarized</w>
+<PP>
+<w pos="IN">from</w>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">do-it-yourself</w>
+<w pos="NN">walking</w>
+<w pos="NN">tour</w>
+<w pos="NN">guide</w>
+</NP>
+</PP>
+<PP>
+<w pos="IN">by</w>
+<NP>
+<NP>
+<w pos="CD">one</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="RBR">less</w>
+<w pos="JJ">gifted</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">author</w>
+<w pos="POS">'s</w>
+</NP>
+<w pos="JJ">former</w>
+<w pos="NN">prep</w>
+<w pos="NN">school</w>
+<w pos="NNS">students</w>
+</NP>
+</PP>
+</NP>
+</PP>
+</NP>
+</PP>
+</VP>
+</S>
+</SBAR>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<symbol>``</symbol>
+<NP>
+<NP>
+<w pos="NNP">London</w>
+<w pos="POS">'s</w>
+</NP>
+<w pos="JJ">ancient</w>
+<w pos="NNP">Temple</w>
+<w pos="NNP">Church</w>
+</NP>
+<VP>
+<w pos="AUX">was</w>
+<VP>
+<w pos="VBN">constructed</w>
+<ADVP>
+<w pos="RB">entirely</w>
+</ADVP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNP">Caen</w>
+<w pos="NN">stone</w>
+</NP>
+</PP>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<NP>
+<NP>
+<w pos="DT">A</w>
+<w pos="JJ">dramatic</w>
+<symbol>,</symbol>
+<w pos="JJ">circular</w>
+<w pos="NN">edifice</w>
+</NP>
+<PP>
+<w pos="IN">with</w>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">daunting</w>
+<w pos="NN">facade</w>
+</NP>
+<symbol>,</symbol>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">central</w>
+<w pos="NN">turret</w>
+</NP>
+<symbol>,</symbol>
+<w pos="CC">and</w>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">protruding</w>
+<w pos="NN">nave</w>
+</NP>
+<PP>
+<w pos="IN">off</w>
+<NP>
+<w pos="CD">one</w>
+<w pos="NN">side</w>
+</NP>
+</PP>
+</NP>
+</NP>
+</PP>
+</NP>
+<symbol>,</symbol>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">church</w>
+</NP>
+<VP>
+<w pos="VBD">looked</w>
+<ADVP>
+<w pos="RBR">more</w>
+</ADVP>
+<PP>
+<w pos="IN">like</w>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">military</w>
+<w pos="NN">stronghold</w>
+</NP>
+<PP>
+<w pos="IN">than</w>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="NN">place</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NN">worship</w>
+</NP>
+</PP>
+</NP>
+</PP>
+</NP>
+</PP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<S>
+<VP>
+<w pos="VBN">Consecrated</w>
+<PP>
+<w pos="IN">on</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">tenth</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNP">February</w>
+</NP>
+</PP>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="CD">1185</w>
+</NP>
+</PP>
+</NP>
+</PP>
+<PP>
+<w pos="IN">by</w>
+<NP>
+<NP>
+<w pos="NNP">Heraclius</w>
+</NP>
+<symbol>,</symbol>
+<NP>
+<NP>
+<w pos="NN">Patriarch</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNP">Jerusalem</w>
+</NP>
+</PP>
+</NP>
+</NP>
+</PP>
+</VP>
+</S>
+<symbol>,</symbol>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNP">Temple</w>
+<w pos="NNP">Church</w>
+</NP>
+<VP>
+<w pos="VBD">survived</w>
+<NP>
+<NP>
+<w pos="CD">eight</w>
+<w pos="NNS">centuries</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<NP>
+<w pos="JJ">political</w>
+<w pos="NN">turmoil</w>
+</NP>
+<symbol>,</symbol>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">Great</w>
+<w pos="NN">Fire</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNP">London</w>
+</NP>
+</PP>
+</NP>
+<symbol>,</symbol>
+<w pos="CC">and</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNP">First</w>
+<w pos="NNP">World</w>
+<w pos="NNP">War</w>
+</NP>
+<symbol>,</symbol>
+</NP>
+</PP>
+</NP>
+<S>
+<ADVP>
+<w pos="RB">only</w>
+</ADVP>
+<VP>
+<w pos="TO">to</w>
+<VP>
+<w pos="AUX">be</w>
+<VP>
+<ADVP>
+<w pos="RB">heavily</w>
+</ADVP>
+<w pos="VBN">damaged</w>
+<PP>
+<w pos="IN">by</w>
+<NP>
+<w pos="NNP">Luftwaffe</w>
+<w pos="JJ">incendiary</w>
+<w pos="NNS">bombs</w>
+</NP>
+</PP>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="CD">1940</w>
+</NP>
+</PP>
+</VP>
+</VP>
+</VP>
+</S>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<PP>
+<w pos="IN">After</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">war</w>
+</NP>
+</PP>
+<NP>
+<w pos="PRP">it</w>
+</NP>
+<VP>
+<w pos="AUX">was</w>
+<VP>
+<w pos="VBN">restored</w>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<w pos="PRP">its</w>
+<w pos="JJ">original</w>
+<symbol>,</symbol>
+<w pos="JJ">stark</w>
+<w pos="NN">grandeur</w>
+<symbol>''</symbol>
+</NP>
+</PP>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<VP>
+<w pos="VBD">Got</w>
+<NP>
+<w pos="PRP">it</w>
+</NP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<NP>
+<NP>
+<w pos="NNP">February</w>
+<w pos="JJ">10th</w>
+</NP>
+<symbol>,</symbol>
+<NP>
+<w pos="CD">1185</w>
+</NP>
+<symbol>;</symbol>
+<NP>
+<NP>
+<w pos="NNP">Heraclius</w>
+</NP>
+<symbol>;</symbol>
+<NP>
+<NP>
+<w pos="NN">turmoil</w>
+</NP>
+<symbol>;</symbol>
+<NP>
+<w pos="NN">fire</w>
+</NP>
+<symbol>;</symbol>
+<NP>
+<w pos="NN">war</w>
+</NP>
+<symbol>;</symbol>
+<NP>
+<w pos="NNP">Luftwaffe</w>
+</NP>
+<symbol>;</symbol>
+<NP>
+<w pos="NNS">bombs</w>
+</NP>
+<symbol>;</symbol>
+<NP>
+<w pos="CD">1940</w>
+</NP>
+</NP>
+</NP>
+<symbol>.</symbol>
+</NP>
+</S1>
+<S1>
+<S>
+<NP>
+<w pos="DT">These</w>
+</NP>
+<VP>
+<w pos="AUX">are</w>
+<NP>
+<w pos="NNS">factoids</w>
+<symbol>,</symbol>
+<w pos="RB">NOT</w>
+<w pos="JJ">descriptive</w>
+<w pos="NNS">passages</w>
+</NP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<SBARQ>
+<WHNP>
+<w pos="WP">What</w>
+<w pos="NN">color</w>
+</WHNP>
+<SQ>
+<w pos="AUX">is</w>
+<NP>
+<w pos="NNP">Caen</w>
+<w pos="NN">stone</w>
+</NP>
+</SQ>
+<symbol>.</symbol>
+</SBARQ>
+</S1>
+<S1>
+<SQ>
+<w pos="AUX">Are</w>
+<NP>
+<w pos="EX">there</w>
+</NP>
+<NP>
+<w pos="NNS">windows</w>
+</NP>
+<symbol>.</symbol>
+</SQ>
+</S1>
+<S1>
+<INTJ>
+<w pos="JJ">Stained</w>
+<w pos="NN">glass</w>
+<symbol>.</symbol>
+</INTJ>
+</S1>
+<S1>
+<NP>
+<NP>
+<w pos="DT">The</w>
+<w pos="NN">smell</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NN">incense</w>
+<w pos="CC">or</w>
+<w pos="NNS">centuries</w>
+</NP>
+</PP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="JJ">candle</w>
+<w pos="NN">wax</w>
+</NP>
+</PP>
+<symbol>.</symbol>
+</NP>
+</S1>
+<S1>
+<NP>
+<NP>
+<w pos="NNS">Pigeons</w>
+</NP>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNS">rafters</w>
+</NP>
+</PP>
+<symbol>.</symbol>
+</NP>
+</S1>
+<S1>
+<NP>
+<NP>
+<w pos="NNS">Bats</w>
+</NP>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">belfry</w>
+</NP>
+</PP>
+<symbol>.</symbol>
+</NP>
+</S1>
+<S1>
+<S>
+<NP>
+<w pos="NNP">Brown</w>
+</NP>
+<VP>
+<w pos="AUX">is</w>
+<w pos="RB">n't</w>
+<VP>
+<w pos="IN">about</w>
+<S>
+<VP>
+<w pos="TO">to</w>
+<VP>
+<w pos="VB">tell</w>
+<NP>
+<w pos="PRP">us</w>
+</NP>
+</VP>
+</VP>
+</S>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<PP>
+<w pos="IN">As</w>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<NP>
+<w pos="NN">plot</w>
+</NP>
+<w pos="CC">and</w>
+<NP>
+<w pos="NN">character</w>
+<w pos="NN">development</w>
+</NP>
+</NP>
+</PP>
+</PP>
+<symbol>-</symbol>
+<PP>
+<w pos="VBN">given</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">near</w>
+<w pos="NN">absence</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="DT">any</w>
+<w pos="JJ">meaningful</w>
+<w pos="JJ">interior</w>
+<w pos="NNS">monologues</w>
+</NP>
+</PP>
+</NP>
+</PP>
+<symbol>-</symbol>
+<NP>
+<w pos="NNS">characters</w>
+</NP>
+<VP>
+<w pos="VBP">blather</w>
+<PP>
+<w pos="IN">at</w>
+<NP>
+<w pos="DT">each</w>
+<w pos="JJ">other</w>
+</NP>
+</PP>
+<PP>
+<w pos="IN">for</w>
+<NP>
+<w pos="NN">page</w>
+</NP>
+</PP>
+<PP>
+<w pos="IN">after</w>
+<NP>
+<w pos="NN">page</w>
+</NP>
+</PP>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<ADJP>
+<w pos="JJ">stilted</w>
+<w pos="CC">and</w>
+<w pos="JJ">unnatural</w>
+</ADJP>
+<w pos="NN">prose</w>
+</NP>
+</PP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<S>
+<NP>
+<NP>
+<w pos="NNP">Langdon</w>
+</NP>
+<symbol>,</symbol>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">symbologist</w>
+</NP>
+<symbol>,</symbol>
+</NP>
+<VP>
+<w pos="VBZ">speaks</w>
+<symbol>:</symbol>
+<symbol>``</symbol>
+<symbol>'</symbol>
+</VP>
+</S>
+<symbol>...</symbol>
+<S>
+<NP>
+<w pos="DT">Every</w>
+<w pos="NN">stone</w>
+<w pos="NN">archway</w>
+</NP>
+<VP>
+<w pos="VBZ">requires</w>
+<NP>
+<w pos="DT">a</w>
+<w pos="JJ">central</w>
+<symbol>,</symbol>
+<w pos="JJ">wedge-shaped</w>
+<w pos="NN">stone</w>
+</NP>
+<PP>
+<w pos="IN">at</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">top</w>
+</NP>
+<SBAR>
+<WHNP>
+<w pos="WDT">which</w>
+</WHNP>
+<S>
+<VP>
+<VP>
+<w pos="VBZ">locks</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNS">pieces</w>
+</NP>
+<ADVP>
+<w pos="RB">together</w>
+</ADVP>
+</VP>
+<w pos="CC">and</w>
+<VP>
+<w pos="VBZ">carries</w>
+<NP>
+<w pos="PDT">all</w>
+<w pos="DT">the</w>
+<w pos="NN">weight</w>
+</NP>
+</VP>
+</VP>
+</S>
+</SBAR>
+</NP>
+</PP>
+</VP>
+</S>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<NP>
+<w pos="DT">This</w>
+<w pos="NN">stone</w>
+</NP>
+<VP>
+<w pos="AUX">is</w>
+<symbol>,</symbol>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<w pos="DT">an</w>
+<w pos="JJ">architectural</w>
+<w pos="NN">sense</w>
+</NP>
+</PP>
+<symbol>,</symbol>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">key</w>
+</NP>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">vault</w>
+</NP>
+</PP>
+</NP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<PP>
+<w pos="IN">In</w>
+<NP>
+<w pos="NNP">English</w>
+</NP>
+</PP>
+<S>
+<NP>
+<w pos="PRP">we</w>
+</NP>
+<VP>
+<w pos="VBP">call</w>
+<NP>
+<w pos="PRP">it</w>
+</NP>
+</VP>
+</S>
+<NP>
+<NP>
+<w pos="DT">a</w>
+<w pos="FW">keystone.</w>
+<w pos="POS">'</w>
+</NP>
+<w pos="NNP">Langdon</w>
+</NP>
+<VP>
+<w pos="VBD">watched</w>
+<S>
+<NP>
+<NP>
+<w pos="PRP">her</w>
+<w pos="NNS">eyes</w>
+</NP>
+<PP>
+<w pos="IN">for</w>
+<NP>
+<w pos="DT">any</w>
+</NP>
+</PP>
+</NP>
+<VP>
+<w pos="VB">spark</w>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NN">recognition</w>
+</NP>
+</PP>
+<symbol>.</symbol>
+<symbol>''</symbol>
+<PRN>
+<symbol>-LRB-</symbol>
+<SBAR>
+<w pos="RB">Perhaps</w>
+<S>
+<NP>
+<w pos="PRP">they</w>
+</NP>
+<VP>
+<w pos="AUX">had</w>
+<w pos="RB">understandably</w>
+<VP>
+<w pos="VBN">glazed</w>
+<PRT>
+<w pos="RP">over</w>
+</PRT>
+</VP>
+</VP>
+</S>
+</SBAR>
+<symbol>-RRB-</symbol>
+</PRN>
+</VP>
+</S>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<ADVP>
+<w pos="RB">Unfortunately</w>
+</ADVP>
+<symbol>,</symbol>
+<NP>
+<w pos="VBN">isolated</w>
+<w pos="NNS">examples</w>
+</NP>
+<VP>
+<w pos="MD">can</w>
+<w pos="RB">n't</w>
+<VP>
+<w pos="VB">create</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="JJ">mind-numbing</w>
+<w pos="NN">effect</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NN">page</w>
+</NP>
+</PP>
+</NP>
+<PP>
+<w pos="IN">after</w>
+<NP>
+<NP>
+<w pos="NN">page</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="DT">this</w>
+<w pos="JJ">tedious</w>
+<w pos="NN">bloviating</w>
+</NP>
+</PP>
+</NP>
+</PP>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<NP>
+<NP>
+<w pos="DT">The</w>
+<w pos="NN">success</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">book</w>
+</NP>
+</PP>
+</NP>
+<VP>
+<w pos="MD">must</w>
+<VP>
+<w pos="AUX">be</w>
+<VP>
+<w pos="VBN">attributed</w>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">publisher</w>
+<w pos="POS">'s</w>
+</NP>
+<PRN>
+<symbol>-LRB-</symbol>
+<w pos="NNP">Doubleday</w>
+<symbol>-RRB-</symbol>
+</PRN>
+<w pos="JJ">unprecedented</w>
+<w pos="NN">marketing</w>
+<w pos="NN">effort</w>
+</NP>
+</PP>
+</VP>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<PP>
+<w pos="VBG">According</w>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNP">New</w>
+<w pos="NNP">York</w>
+<w pos="NNP">Times</w>
+</NP>
+</PP>
+</PP>
+<symbol>,</symbol>
+<NP>
+<w pos="NNP">Doubleday</w>
+</NP>
+<VP>
+<VP>
+<w pos="VBD">distributed</w>
+<NP>
+<NP>
+<w pos="CD">10,000</w>
+<w pos="NN">advance</w>
+<w pos="NNS">copies</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NN">book</w>
+</NP>
+</PP>
+</NP>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<NP>
+<w pos="NNS">booksellers</w>
+</NP>
+<w pos="CC">and</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNS">media</w>
+</NP>
+</NP>
+</PP>
+</VP>
+<symbol>,</symbol>
+<w pos="CC">and</w>
+<VP>
+<w pos="VBD">put</w>
+<NP>
+<w pos="NNP">Mr</w>
+</NP>
+</VP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<NP>
+<NP>
+<w pos="NNP">Brown</w>
+</NP>
+<symbol>-</symbol>
+<SBAR>
+<WHNP>
+<w pos="WP">who</w>
+</WHNP>
+<S>
+<VP>
+<w pos="AUX">had</w>
+<ADVP>
+<w pos="RB">never</w>
+</ADVP>
+<VP>
+<ADVP>
+<w pos="RB">before</w>
+</ADVP>
+<w pos="VBN">sold</w>
+<NP>
+<NP>
+<QP>
+<w pos="JJR">more</w>
+<w pos="IN">than</w>
+<w pos="DT">a</w>
+<w pos="JJ">few</w>
+<w pos="CD">thousand</w>
+</QP>
+<w pos="NNS">copies</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="PRP">his</w>
+<w pos="JJR">earlier</w>
+<w pos="NNS">efforts</w>
+</NP>
+</PP>
+</NP>
+</VP>
+</VP>
+</S>
+</SBAR>
+<symbol>-</symbol>
+</NP>
+<ADVP>
+<w pos="RB">on</w>
+</ADVP>
+<VP>
+<w pos="VBD">extended</w>
+<NP>
+<w pos="NN">publicity</w>
+<w pos="NN">road</w>
+<w pos="NNS">trips</w>
+</NP>
+<PP>
+<w pos="TO">to</w>
+<NP>
+<NP>
+<w pos="NN">trade</w>
+<w pos="NNS">shows</w>
+</NP>
+<w pos="CC">and</w>
+<NP>
+<w pos="NNS">booksellers</w>
+</NP>
+</NP>
+</PP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<SBAR>
+<w pos="IN">If</w>
+<S>
+<NP>
+<w pos="PRP">you</w>
+</NP>
+<VP>
+<w pos="AUX">'re</w>
+<VP>
+<w pos="VBG">looking</w>
+<PP>
+<w pos="IN">for</w>
+<NP>
+<w pos="DT">an</w>
+<ADJP>
+<w pos="RB">intellectually</w>
+<w pos="JJ">challenging</w>
+</ADJP>
+<w pos="NN">mystery</w>
+<w pos="NN">story</w>
+</NP>
+</PP>
+</VP>
+</VP>
+</S>
+</SBAR>
+<symbol>,</symbol>
+<VP>
+<w pos="VB">read</w>
+<w pos="CC">or</w>
+<w pos="VB">reread</w>
+<NP>
+<NP>
+<w pos="NNP">Eco</w>
+<w pos="POS">'s</w>
+</NP>
+<symbol>``</symbol>
+<NP>
+<NP>
+<w pos="DT">The</w>
+<w pos="NN">Name</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="DT">the</w>
+<w pos="NNP">Rose</w>
+</NP>
+</PP>
+</NP>
+<symbol>''</symbol>
+<symbol>,</symbol>
+<w pos="CC">or</w>
+<symbol>``</symbol>
+<NX>
+<NP>
+<w pos="NNP">Foucault</w>
+<w pos="POS">'s</w>
+</NP>
+<w pos="NNP">Pendulum</w>
+</NX>
+<symbol>''</symbol>
+</NP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<PP>
+<w pos="IN">For</w>
+<NP>
+<NP>
+<NP>
+<w pos="JJR">more</w>
+<w pos="JJ">vivid</w>
+<w pos="NNS">descriptions</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NNS">people</w>
+<w pos="CC">and</w>
+<w pos="NNS">places</w>
+</NP>
+</PP>
+</NP>
+<w pos="CC">and</w>
+<NP>
+<NP>
+<w pos="NNS">events</w>
+</NP>
+<PP>
+<w pos="IN">in</w>
+<NP>
+<NP>
+<w pos="DT">an</w>
+<w pos="NN">atmosphere</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<NP>
+<w pos="NN">mystery</w>
+</NP>
+</PP>
+</NP>
+</PP>
+</NP>
+</NP>
+</PP>
+<symbol>,</symbol>
+<VP>
+<w pos="VB">read</w>
+<NP>
+<NP>
+<w pos="NNP">Crichton</w>
+</NP>
+<symbol>,</symbol>
+<w pos="CC">or</w>
+<NP>
+<w pos="NNP">Ian</w>
+<w pos="NNP">Fleming</w>
+</NP>
+<symbol>-</symbol>
+<w pos="CC">or</w>
+<ADVP>
+<w pos="RB">even</w>
+</ADVP>
+<NP>
+<w pos="NNP">Tom</w>
+<w pos="NNP">Clancy</w>
+</NP>
+</NP>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+<S1>
+<S>
+<PP>
+<w pos="IN">For</w>
+<NP>
+<NP>
+<w pos="DT">an</w>
+<w pos="NN">example</w>
+</NP>
+<PP>
+<w pos="IN">of</w>
+<SBAR>
+<WHADVP>
+<w pos="WRB">how</w>
+</WHADVP>
+<S>
+<NP>
+<w pos="NN">marketing</w>
+<w pos="NN">hype</w>
+</NP>
+<VP>
+<w pos="MD">can</w>
+<VP>
+<VP>
+<w pos="VB">overcome</w>
+<NP>
+<w pos="JJ">critical</w>
+<w pos="NN">judgment</w>
+</NP>
+</VP>
+<w pos="CC">and</w>
+<VP>
+<w pos="VB">influence</w>
+<NP>
+<w pos="JJ">popular</w>
+<w pos="NN">taste</w>
+</NP>
+</VP>
+</VP>
+</VP>
+</S>
+</SBAR>
+</PP>
+</NP>
+</PP>
+<symbol>,</symbol>
+<VP>
+<w pos="VB">read</w>
+<S>
+<symbol>``</symbol>
+<NP>
+<w pos="DT">The</w>
+<w pos="NNP">Da</w>
+<w pos="NNP">Vinci</w>
+<w pos="NNP">Code</w>
+</NP>
+<symbol>''</symbol>
+</S>
+</VP>
+<symbol>.</symbol>
+</S>
+</S1>
+</TEXT>
